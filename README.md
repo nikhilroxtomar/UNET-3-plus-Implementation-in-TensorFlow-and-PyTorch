@@ -1,5 +1,5 @@
-# UNET 3+-Implementation-in-TensorFlow
-This repository demonstrates the implementation of Unet3+ in TensorFlow
+# UNET 3+-Implementation-in-TensorFlow & PyTorch
+This repository demonstrates the implementation of UNet 3+ in TensorFlow & PyTorch
 
 ## What is UNET 3+
 - UNet 3+ is an advanced medical image segmentation architecture, building upon UNet++, *featuring full-scale skip connections*, *deep supervision*, and a *classification-guided module* for improved accuracy and reduced parameters.
